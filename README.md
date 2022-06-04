@@ -17,9 +17,22 @@ In general the following structure
     README.MD
     info.json
 
-Suggestion to use [Building topology](https://w3c-lbd-cg.github.io/bot/)
-For robots/vehicles?
 
+## Blender Models
+
+### Requirements
+1. Blender files should contain only one model of best quality
+2. Origin should match geometrical center of the model
+3. 
+
+### Exporting
+1. Use [Blender ESCN exporter](https://docs.godotengine.org/en/stable/tutorials/assets_pipeline/escn_exporter/index.html) with settings
+   1. Animation mode: Scene
+   2. Materials mode: Spatial
+
+## Suggestion
+1. Use [Building topology](https://w3c-lbd-cg.github.io/bot/)
+2. How to describe robots?
 
 ## Tips & Tricks
 
